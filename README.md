@@ -1,3 +1,15 @@
+## Data-Ingestion-into-Hive
+
+A small project to ingest the data from a MySQL table to the Hive warehouse.
+
+Introduction Implemented steps to Ingest the data from RDBMS table into Hive warehouse
+
+## Business Requirement
+
+Perform data ingestion using sqoop: HDFS --> MySQL --> Hive
+It Covers MySQL Sqoop (Import, Export and Sqoop Job) Hadoop-Linux commands Hive
+
+## Steps to implement the project;
 1.	Create Required directories in HDFS using hdfs-linux commands and Load the data into HDFS.
 
 2.	Create Staging and Actual tables in MySQL.
